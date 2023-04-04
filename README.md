@@ -5,4 +5,4 @@
 
 <!--- Active projects --->
 ## Active projects
-- [x] [Scraping Library](www.github.com/Facundo-Barbera/scrapper) - A python based project to scrape web-sites. (Portfolio project)
+- [x] [Scraping Library](https://github.com/Facundo-Barbera/Scraping-Library) - A python based project to scrape web-sites. (Portfolio project)
