@@ -1,11 +1,15 @@
 - 👋 Hi, I'm @Facundo-Barbera
 - 👀 I'm interested in gaming, computer science and data science.
 - 🌱 I'm currently learning data science.
-- 📫 You can find me at: [LinkedIn](https://www.linkedin.com/in/facundo-bautista-barbera-86bb41187/)
+- 📫 You can find me in: [LinkedIn](https://www.linkedin.com/in/facundo-bautista-barbera-86bb41187/)
 
 <!--- Active projects --->
 ## Active projects
 - [x] [Scraping Library](https://github.com/Facundo-Barbera/Scraping-Library) - A Python-based project to scrape websites. (Portfolio project)
+
+<!--- Planned projects --->
+## Planned projects
+- [ ] [MNIST dataset analysis](https://github.com/Facundo-Barbera/MNIST-Dataset-analysis) 
 
 <!--- Finished projects --->
 ## Finished projects
