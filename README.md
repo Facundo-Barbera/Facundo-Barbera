@@ -9,7 +9,7 @@
 
 <!--- Planned projects --->
 ## Planned projects
-- [ ] [MNIST dataset analysis](https://github.com/Facundo-Barbera/MNIST-Dataset-analysis) 
+- [ ] [MNIST dataset analysis](https://github.com/Facundo-Barbera/MNIST-Dataset-analysis) - Still figuring out what to do about this...
 
 <!--- Finished projects --->
 ## Finished projects
