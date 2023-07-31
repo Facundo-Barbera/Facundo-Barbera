@@ -14,3 +14,4 @@
 <!--- Finished projects --->
 ## Finished projects
 - [x] [U.S. Medical Insurance Costs](https://github.com/Facundo-Barbera/U.S.-Medical-Insurance-Costs) - A Python-based project to analyze a dataset of medical insurance costs. (Portfolio project)
+- [x] [Game Recommendation Engine: Analyzing a Video game Database](https://github.com/Facundo-Barbera/game-recommendation-engine) - A fun, data-driven, project that I made for a teacher during a summer period course.
