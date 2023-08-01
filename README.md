@@ -15,5 +15,5 @@ Feel free to use my [LinkedIn](https://www.linkedin.com/in/facundo-bautista-barb
 - [ ] [MNIST dataset analysis](https://github.com/Facundo-Barbera/MNIST-Dataset-analysis) - Still figuring out what to do about this... (Small protfolio prooject [maybe])
 
 ## Finished projects
-- [x] [U.S. Medical Insurance Costs](https://github.com/Facundo-Barbera/U.S.-Medical-Insurance-Costs) - A Python-based project to analyze a dataset of medical insurance costs. (Portfolio project)
+- [x] [U.S. Medical Insurance Costs](https://github.com/Facundo-Barbera/us-medical-insurance-costs-eda) - A Python-based project to analyze a dataset of medical insurance costs. (Portfolio project)
 - [x] [Game Recommendation Engine: Analyzing a Video game Database](https://github.com/Facundo-Barbera/game-recommendation-engine) - A fun, data-driven, project that I made for a teacher during a summer period course. (Small portfolio project)
