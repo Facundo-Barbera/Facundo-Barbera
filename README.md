@@ -14,7 +14,7 @@ Feel free to use my [LinkedIn](https://www.linkedin.com/in/facundo-bautista-barb
 ## Finished projects
 - [x] [Game Recommendation Engine: Analyzing a Video game Database](https://github.com/Facundo-Barbera/game-recommendation-engine)
 - [x] [Scraping Library](https://github.com/Facundo-Barbera/Scraping-Library)
-- [x] [U.S. Medical Insurance Costs](https://github.com/Facundo-Barbera/us-medical-insurance-costs-eda)
+- [x] [U.S. Medical Insurance Costs](https://github.com/Facundo-Barbera/us-medical-insurance-costs)
 
 ## Revisit
 
@@ -28,7 +28,7 @@ Here is what's pending in this project:
 - [ ] Adding a scrapper for WHO.
      
 
-### [U.S. Medical Insurance Costs](https://github.com/Facundo-Barbera/us-medical-insurance-costs-eda)
+### [U.S. Medical Insurance Costs](https://github.com/Facundo-Barbera/us-medical-insurance-costs)
 
 This project is one that I took a long time to make and didn't quite finish how I wanted to.
 I want to re-visit this project with a different focus.
