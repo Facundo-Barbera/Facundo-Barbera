@@ -14,7 +14,7 @@ Feel free to use my [LinkedIn](https://www.linkedin.com/in/facundo-bautista-barb
 ## Finished projects
 - [x] [Game Recommendation Engine: Analyzing a Video game Database](https://github.com/Facundo-Barbera/game-recommendation-engine)
 - [x] [Scraping Library](https://github.com/Facundo-Barbera/Scraping-Library)
-- [x] [U.S. Medical Insurance Costs](https://github.com/Facundo-Barbera/us-medical-insurance-costs)
+- [x] [U.S. Medical Insurance Costs](https://github.com/Facundo-Barbera/us-medical-insurance-costs-analysis)
 
 ## Revisit
 
